@@ -1,12 +1,7 @@
 
 # Overview
 
-This setup allows testing of the simplest optimization scheme for inverting an emulated ice flow model. The goal is to find the optimal ice thickness that best explains observational data while remaining consistent with the ice flow emulator, demonstrated here for the case of the Aletsch Glacier.
-
-## Former set-up
-
-- params_1.yaml : Opitmize thk to fit ice thickness and ice velocity
-- params_2.yaml : Optimize thk, slidingco, usurf to fit ice thickness, ice velocity, usurf, ...
+This setup allows testing of the simplest optimization scheme for inverting an emulated ice flow model. The goal is to find the optimal ice thickness that best explains observational data while remaining consistent with the ice flow emulator, demonstrated here for the case of the Aletsch Glacier. 
 
 ## Ongoing (improved) setup (5 May 2025)
 
